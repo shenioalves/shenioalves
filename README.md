@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Conheci essa maravilha chamada programação um pouco mais tarde, mas foi amor à primeira vista. Atualmente, estou migrando para o desenvolvimento mobile e . Também sou voluntário em um projeto de iniciação científica, desenvolvendo um contrato inteligente com blockchain. Estou nessa maratona com dedicação total para me tornar um desenvolvedor e contribuir com soluções inovadoras.</p>
+<p align="left">Conheci essa maravilha chamada programação um pouco mais tarde, mas foi amor à primeira vista. Atualmente, estou migrando para o desenvolvimento mobile. Também sou voluntário em um projeto de iniciação científica, desenvolvendo um contrato inteligente com blockchain. Estou nessa maratona com dedicação total para me tornar um desenvolvedor e contribuir com soluções inovadoras.</p>
 
 ###
 
