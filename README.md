@@ -9,6 +9,9 @@
 <p align="left">🎓 Bacharelando em Engenharia de computação - UFBA<br><br>📱 Trainee de Desenvolvimento Mobile na TITAN</p>
 
 ###
+<img src="https://raw.githubusercontent.com/shenioalves/shenioalves/output/snake.svg" alt="Snake animation" />
+
+###
 
 <h2 align="left">Onde me encontrar:</h2>
 
