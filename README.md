@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Conheci essa maravilha chamada programação um pouco mais tarde, mas foi amor à primeira vista. Atualmente, estou migrando para o desenvolvimento mobile. Também sou voluntário em um projeto de iniciação científica, desenvolvendo um contrato inteligente com blockchain. Estou nessa maratona com dedicação total para me tornar um desenvolvedor e contribuir com soluções inovadoras.</p>
+<p align="left">Entrei na programação em busca de algo novo e, apesar das dúvidas iniciais, a persistência me trouxe até aqui. Hoje, sou trainee em desenvolvimento mobile, explorando o Flutter, e voluntário em pesquisa de iniciação científica, onde trabalho com contratos inteligentes em blockchain. Curioso e persistente, adoro enfrentar desafios enquanto aprendo e construo soluções inovadoras. Estou nessa maratona com dedicação total para me tornar um desenvolvedor e contribuir com soluções inovadoras.</p>
 
 ###
 
