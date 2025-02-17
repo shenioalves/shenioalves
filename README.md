@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🎓 Bacharelando em Engenharia de computação - UFBA<br><br>📱 Trainee de Desenvolvimento Mobile na TITAN</p>
+<p align="left">🎓 Bacharelando em Engenharia de computação - UFBA<br><br>📱 Desenvolvedor Mobile na TITAN</p>
 
 ###
 
