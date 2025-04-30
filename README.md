@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">Entrei na programação em busca de algo novo e, apesar das dúvidas iniciais, a persistência me trouxe até aqui. Hoje, sou trainee em desenvolvimento mobile, explorando o Flutter, e voluntário em pesquisa de iniciação científica, onde trabalho com contratos inteligentes em blockchain. Curioso e persistente, adoro enfrentar desafios enquanto aprendo e construo soluções inovadoras. Estou nessa maratona com dedicação total para me tornar um desenvolvedor e contribuir com soluções inovadoras.</p>
+<p align="left">Sou estudante de Engenharia de Computação e desenvolvedor mobile apaixonado por tecnologia e inovação.
+
+Com experiência em Flutter, desenvolvimento de aplicativos multiplataforma e interesse em blockchain, busco constantemente desafios que me permitam expandir meus conhecimentos e contribuir com soluções impactantes.
+
+Minha trajetória combina base sólida em lógica de programação com uma mentalidade pró-ativa e adaptável, essencial para acompanhar as rápidas mudanças do setor. Tenho facilidade para aprender novas tecnologias e aplicá-las em projetos práticos, sempre com foco em eficiência, usabilidade e escalabilidade.</p>
 
 ###
 
