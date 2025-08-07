@@ -1,6 +1,6 @@
 <h1 align="left">Olá! Meu nome é Shênio Alves☺️</h1>
 
-## 👋 Olá! Eu sou Shênio Alves
+### 👋 Olá! Eu sou Shênio Alves
 
 Sou estudante de **Engenharia de Computação na UFBA** e apaixonado por tecnologia, desenvolvimento mobile e educação.
 
