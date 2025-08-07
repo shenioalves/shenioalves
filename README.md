@@ -1,5 +1,4 @@
 <h1>👋 Olá! Eu sou Shênio Alves</h1>
-##
 
 Sou estudante de **Engenharia de Computação na UFBA** e apaixonado por tecnologia, desenvolvimento mobile e educação.
 
