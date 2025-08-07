@@ -12,7 +12,7 @@ Minha trajetória combina base sólida em lógica de programação com uma menta
 
 <p align="left">🎓 Bacharelando em Engenharia de computação - UFBA<br>
   
-<br>📱 Desenvolvedor Mobile na TITAN</p>>
+<br>📱 Desenvolvedor Mobile na TITAN</p>
 <br>
 
 🧑‍🏫  Monitor Orientador Tomorrow</p>
