@@ -1,12 +1,14 @@
 <h1 align="left">Olá! Meu nome é Shênio Alves☺️</h1>
 
-###
+## 👋 Olá! Eu sou Shênio Alves
 
-<p align="left">Sou estudante de Engenharia de Computação e desenvolvedor mobile apaixonado por tecnologia e inovação.
+Sou estudante de **Engenharia de Computação na UFBA** e apaixonado por tecnologia, desenvolvimento mobile e educação.
 
-Com experiência em Flutter, desenvolvimento de aplicativos multiplataforma e interesse em blockchain, busco constantemente desafios que me permitam expandir meus conhecimentos e contribuir com soluções impactantes.
+Atualmente, faço parte da **TITAN - Empresa Júnior de Engenharia da Computação**, atuando como **desenvolvedor mobile Flutter**.
 
-Minha trajetória combina base sólida em lógica de programação com uma mentalidade pró-ativa e adaptável, essencial para acompanhar as rápidas mudanças do setor. Tenho facilidade para aprender novas tecnologias e aplicá-las em projetos práticos, sempre com foco em eficiência, usabilidade e escalabilidade.</p>
+Também atuo como **monitor orientador de programação na Tomorrow**, onde ministro cursos de **Programação Orientada a Objetos com Java**, **Estrutura de Dados**, **Programação de Computadores com Python** e **Gerenciamento de Configuração de Software** (Git, GitHub, Gitflow, etc.). Essa experiência tem sido uma oportunidade incrível de unir meu gosto por ensinar ao meu aprendizado constante.
+
+
 
 ###
 
