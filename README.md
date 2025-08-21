@@ -10,9 +10,9 @@ Também atuo como **monitor orientador de programação na Tomorrow**, onde mini
 
 ###
 
-<p align="left">🎓 Bacharelando em Engenharia de computação - UFBA<br>
-<br>📱 Desenvolvedor Mobile na TITAN</p>
-<br>
+<p align="left">
+🎓 Bacharelando em Engenharia de computação - UFBA
+📱 Desenvolvedor Mobile na TITAN</p>
 🧑‍🏫  Monitor Orientador Tomorrow</p>
 
 ###
