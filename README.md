@@ -29,14 +29,7 @@ Também atuo como **monitor orientador de programação na Tomorrow**, onde mini
 </div>
 
 ###
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shenioalves/shenioalves/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shenioalves/shenioalves/output/github-contribution-grid-snake.svg">
-    <img alt="snake" src="https://raw.githubusercontent.com/shenioalves/shenioalves/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-<div align="center">
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 
 
  <img src="https://github-readme-stats.vercel.app/api?username=shenioalves&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
