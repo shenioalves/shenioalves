@@ -29,7 +29,13 @@ Também atuo como **monitor orientador de programação na Tomorrow**, onde mini
 </div>
 
 ###
-![snake gif](https://github.com/shenioalves/shenioalves/blob/output/snake.svg)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shenioalves/shenioalves/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shenioalves/shenioalves/output/github-contribution-grid-snake.svg">
+    <img alt="snake" src="https://raw.githubusercontent.com/shenioalves/shenioalves/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 <div align="center">
 
 
