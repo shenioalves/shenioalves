@@ -29,8 +29,7 @@ Também atuo como **monitor orientador de programação na Tomorrow**, onde mini
 </div>
 
 ###
-![Snake animation](https://raw.githubusercontent.com/shenioalves/shenioalves/output/github-contribution-grid-snake.gif)
-
+![Snake animation](https://raw.githubusercontent.com/shenioalves/shenioalves/output/github-contribution-grid-snake.svg)
 
 
 
