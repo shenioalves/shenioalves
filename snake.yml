@@ -2,8 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # Atualiza a cada 12h
-  workflow_dispatch: # Permite rodar manualmente
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: ShenioAlves
+          github_user_name: shenioalves
           outputs: dist/snake.svg
 
       - name: Push to output branch
