@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá! Eu sou Shênio Alves</h1>
+<h1 align="start">👋 Olá! Eu sou Shênio Alves</h1>
 
 ###
 
