@@ -1,5 +1,5 @@
 <h1 align="start">👋 Olá! Eu sou Shênio Alves</h1>
-
+ 
 ###
 
 <p align="left">Sou estudante de Engenharia de Computação na UFBA e apaixonado por tecnologia, desenvolvimento mobile e educação.<br><br>Atualmente, faço parte da TITAN - Empresa Júnior de Engenharia da Computação, atuando como desenvolvedor mobile Flutter.<br><br>Também atuo como monitor orientador de programação na Tomorrow, onde ministro cursos de Programação Orientada a Objetos com Java, Estrutura de Dados, Programação de Computadores com Python e Gerenciamento de Configuração de Software (Git, GitHub, Gitflow, etc.). Essa experiência tem sido uma oportunidade incrível de unir meu gosto por ensinar ao meu aprendizado constante.<br><br>🎓 Bacharelando em Engenharia de computação - UFBA<br><br>📱 Gerente e Desenvolvedor Mobile na TITAN<br><br>🧑‍🏫 Monitor Orientador na Tomorrow</p>
