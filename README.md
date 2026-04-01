@@ -1,8 +1,27 @@
- <h1 align="start">👋 Olá! Eu sou Shênio Alves</h1>
+<h1 align="start">Olá, eu sou Shênio Alves 👋</h1>
 
-### 
+<h3 align="start">Desenvolvedor Mobile | Engenharia de Computação</h3>
 
-<p align="left">Sou estudante de Engenharia de Computação na UFBA e apaixonado por tecnologia, desenvolvimento mobile e educação.<br><br>Atualmente, faço parte da TITAN - Empresa Júnior de Engenharia da Computação, atuando como desenvolvedor mobile Flutter.<br><br>Também atuo como monitor orientador de programação na Tomorrow, onde ministro cursos de Programação Orientada a Objetos com Java, Estrutura de Dados, Programação de Computadores com Python e Gerenciamento de Configuração de Software (Git, GitHub, Gitflow, etc.). Essa experiência tem sido uma oportunidade incrível de unir meu gosto por ensinar ao meu aprendizado constante.<br><br>🎓 Bacharelando em Engenharia de computação - UFBA<br><br>📱 Gerente e Desenvolvedor Mobile na TITAN<br><br>🧑‍🏫 Monitor Orientador na Tomorrow</p>
+<p align="left">
+Graduando em Engenharia de Computação pela Universidade Federal da Bahia (UFBA), com foco no desenvolvimento de aplicações mobile escaláveis e de alto impacto.
+</p>
+
+<p align="left">
+Tenho sólida experiência na construção de software e definição de arquitetura mobile. Atualmente atuo como Desenvolvedor Mobile na TITAN, onde também já exerci o cargo de Gerente de Desenvolvimento Mobile, liderando a equipe técnica, tomando decisões arquiteturais e garantindo a qualidade e o ciclo de vida das entregas.
+</p>
+
+### 💼 Experiência
+
+- 📱 **Desenvolvedor Mobile | TITAN** *(Atual)*<br>
+  Desenvolvimento e manutenção de aplicativos móveis com foco em performance, código limpo e boas práticas de engenharia de software.
+- 👔 **Ex-Gerente de Desenvolvimento Mobile | TITAN**<br>
+  Gestão da equipe mobile da empresa júnior, definição de stack tecnológica e liderança técnica nos projetos.
+
+### 🛠️ Tecnologias e Arquitetura
+- **Mobile:** Flutter, Dart
+- **Arquitetura de Software:** Clean Architecture, MVVM
+- **Gerenciamento de Estado:** BLoC, MobX, Provider
+- **Ecossistema & Ferramentas:** Git, Gitflow
 
 ###
 
@@ -14,11 +33,10 @@
   <a href="https://linkedin.com/in/shenioalves" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-<a href="mailto:shenioalvesjgs@gmail.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
-</a>
+  <a href="mailto:shenioalvesjgs@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
 </div>
-
 
 ###
 
