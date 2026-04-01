@@ -23,6 +23,22 @@ Tenho sólida experiência na construção de software e definição de arquitet
 - **Gerenciamento de Estado:** BLoC, MobX, Provider
 - **Ecossistema & Ferramentas:** Git, Gitflow
 
+
+### 🚀 Projetos em Destaque
+
+- 🧠 **Memoire (Projeto Freelance)**<br>
+  Aplicativo mobile com lógica social englobando feed, sistema de seguidores e avaliações. O desenvolvimento focou na implementação de gerenciamento de estado reativo e navegação complexa.<br>
+
+- 📊 **DRE Metrics (Projeto TITAN)**<br>
+  Aplicativo financeiro voltado para a geração automática de DRE (Demonstração do Resultado do Exercício). Estruturado arquiteturalmente visando alta escalabilidade.<br>
+  🔗 <a href="https://apps.apple.com/br/app/dre-metrics/id6479337437" target="_blank">App Store</a> | <a href="https://play.google.com/store/apps/details?id=br.com.addeconsultoria&pcampaignid=web_share" target="_blank">Play Store</a>
+
+- 🏥 **Meycare (Projeto TITAN)**<br>
+  Sistema de fidelidade mobile contendo regras de pontuação e resgate de benefícios, com foco em integração segura com o backend.<br>
+
+- 📱 **App de Acompanhamento - SA (Projeto TITAN)**<br>
+  Sistema gamificado projetado para o registro ágil de atividades, contando com ranqueamento de usuários baseado em pontuação.<br>
+
 ###
 
 <h2 align="left">Onde me encontrar</h2>
