@@ -1,106 +1,135 @@
-<h1 align="start">Olá, eu sou Shênio Alves 👋</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f2a900&height=180&section=header&text=Hi,+World!!!++I'm+Shênio+Alves&fontSize=25&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+Name's+Shênio+Alves.;I'm+a+Mobile+Developer;I+study+Computer+Engineering+at+UFBA;I+love+Mobile+Development;Confira+meu+Portfólio!;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<h3 align="start">Desenvolvedor Mobile | Engenharia de Computação</h3>
+<br>
 
-<p align="left">
-Graduando em Engenharia de Computação pela Universidade Federal da Bahia (UFBA), com foco no desenvolvimento de aplicações mobile escaláveis e de alto impacto.
-</p>
-
-<p align="left">
-Tenho sólida experiência na construção de software e definição de arquitetura mobile. Atualmente atuo como Desenvolvedor Mobile na TITAN, onde também já exerci o cargo de Gerente de Desenvolvimento Mobile, liderando a equipe técnica, tomando decisões arquiteturais e garantindo a qualidade e o ciclo de vida das entregas.
-</p>
-
-### 💼 Experiência
-
-- 📱 **Desenvolvedor Mobile | TITAN** *(Atual)*<br>
-  Desenvolvimento e manutenção de aplicativos móveis com foco em performance, código limpo e boas práticas de engenharia de software.
-- 👔 **Ex-Gerente de Desenvolvimento Mobile | TITAN**<br>
-  Gestão da equipe mobile da empresa júnior, definição de stack tecnológica e liderança técnica nos projetos.
-
-### 🛠️ Tecnologias e Arquitetura
-- **Mobile:** Flutter, Dart
-- **Arquitetura de Software:** Clean Architecture, MVVM
-- **Gerenciamento de Estado:** BLoC, MobX, Provider
-- **Ecossistema & Ferramentas:** Git, Gitflow
-
-
-### 🚀 Projetos em Destaque
-
-- 🧠 **Memoire (Projeto Freelance)**<br>
-  Aplicativo mobile com lógica social englobando feed, sistema de seguidores e avaliações. O desenvolvimento focou na implementação de gerenciamento de estado reativo e navegação complexa.<br>
-
-- 📊 **DRE Metrics (Projeto TITAN)**<br>
-  Aplicativo financeiro voltado para a geração automática de DRE (Demonstração do Resultado do Exercício). Estruturado arquiteturalmente visando alta escalabilidade.<br>
-  🔗 <a href="https://apps.apple.com/br/app/dre-metrics/id6479337437" target="_blank">App Store</a> | <a href="https://play.google.com/store/apps/details?id=br.com.addeconsultoria&pcampaignid=web_share" target="_blank">Play Store</a>
-
-- 🏥 **Meycare (Projeto TITAN)**<br>
-  Sistema de fidelidade mobile contendo regras de pontuação e resgate de benefícios, com foco em integração segura com o backend.<br>
-
-- 📱 **App de Acompanhamento - SA (Projeto TITAN)**<br>
-  Sistema gamificado projetado para o registro ágil de atividades, contando com ranqueamento de usuários baseado em pontuação.<br>
-
-###
-
-<h2 align="left">Onde me encontrar</h2>
-
-###
-
-<div align="start">
+<div align="center">  
+  <a href="https://www.shenioalves.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Meu_Portfólio-f2a900?style=for-the-badge" alt="Portfolio Badge"/>
+  </a>
   <a href="https://linkedin.com/in/shenioalves" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
+    <img src="https://img.shields.io/badge/-LinkedIn-424242?style=for-the-badge&logo=linkedin&logoColor=f2a900" target="_blank">
+  </a> 
   <a href="mailto:shenioalvesjgs@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+    <img src="https://img.shields.io/badge/Gmail-424242?style=for-the-badge&logo=gmail&logoColor=f2a900" alt="Gmail Badge"/>
   </a>
+</div> 
+
+<br>
+
+[![shenioalves github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shenioalves&bg_color=424242&color=f2a900&line=f2a900&point=fff&area=true&border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<div align="center">
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shenioalves&theme=transparent)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shenioalves&theme=transparent)
+  
 </div>
 
-###
+# Sobre Mim:
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shenioalves/shenioalves/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shenioalves/shenioalves/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shenioalves/shenioalves/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-###
+<p align="left">
+  Olá! Bem-vindo(a) ao meu Github
+ 
+  Sou **Shênio Alves**, graduando em Engenharia de Computação (UFBA) e desenvolvedor de software especializado em **mobile (Flutter/Dart)** com foco em performance e Clean Architecture.
+  
+  Atualmente, sou **Desenvolvedor Mobile na TITAN** (onde já atuei como Gerente de Desenvolvimento), **Flutter Developer na Vyavastha** (SaaS - Índia) e **Estagiário na TecnoCraques**. Tenho grande vivência em construir aplicações escaláveis, reativas e com código limpo.
+  
+  Sinta-se à vontade para se conectar comigo! Ah, confira também meu trabalho em detalhes no portfólio: **[www.shenioalves.com.br](https://www.shenioalves.com.br)**.
+</p>
+
+# Meu Foco 🔍
+
+<br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dart,flutter" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg" /> 
+  </a>
+</p>
+
+<br>
+
+# Linguagens e Tecnologias 💻
+
+<br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dart,flutter,java,js,nodejs,spring,cpp,html,css,firebase" />
+  </a>
+</p>
+
+<br>
+
+# Ferramentas de Desenvolvimento e Arquitetura 🛠️
+
+<br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,notion" />
+  </a>
+</p>
+
+<br>
+
+# 🚀 Projetos em Destaque
+
+- 💼 **Vyavastha (SaaS)**<br>
+  Aplicativo multiplataforma para plataforma SaaS de gestão de assinaturas. Estruturado com Clean Architecture, BLoC/Cubit, Flavors e autenticação JWT.<br>
+
+- 🏥 **Meycare (Projeto TITAN)**<br>
+  E-commerce de saúde capilar com sistema de fidelidade integrado. Tecnologias principais: MobX, MVVM, Firebase, e Stripe.<br>
+  🔗 <a href="https://apps.apple.com/br/app/meycare/id6745577935" target="_blank">App Store</a> | <a href="https://play.google.com/store/apps/details?id=br.com.meycare" target="_blank">Play Store</a>
+
+- 📊 **DRE Metrics (Projeto TITAN)**<br>
+  App voltado para a geração automática de relatórios DRE e cálculo de markup de produtos. Padrão arquitetural MVVM com MobX.<br>
+  🔗 <a href="https://apps.apple.com/br/app/dre-metrics/id6479337437" target="_blank">App Store</a> | <a href="https://play.google.com/store/apps/details?id=br.com.addeconsultoria&hl=pt_BR" target="_blank">Play Store</a>
+
+- 📱 **Sistema de Acompanhamento - SA (Projeto TITAN)**<br>
+  Sistema web e mobile gamificado para registro ágil de atividades, desenvolvido com padrão modular (MVVM, MobX, DIO).<br>
+
+- 🎯 **Roleta**<br>
+  Aplicativo interativo de roleta com suporte para web e mobile (MVVM, MobX, Hive).<br>
+  🔗 <a href="https://roletatitanica.vercel.app" target="_blank">Web</a> | <a href="https://github.com/shenioalves/Roleta" target="_blank">GitHub</a>
+
+- 🌐 **Meu Portfólio**<br>
+  Portfólio profissional moderno desenvolvido inteiramente em Flutter Web.<br>
+  🔗 <a href="https://shenioalves.com.br" target="_blank">Web</a> | <a href="https://github.com/shenioalves/portfolio" target="_blank">GitHub</a>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">  
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shenioalves/shenioalves/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shenioalves/shenioalves/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shenioalves/shenioalves/output/pacman-contribution-graph.svg">
+  </picture>
+
+</div>
+
+---
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=shenioalves&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=shenioalves&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=shenioalves&theme=dracula&row=1&margin-w=15&margin-h=15" height="150" alt="trophy graph"  />
 </div>
 
-###
-
-<h2 align="left">Tecnologias e Frameworks</h2>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="60" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="60" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="60" alt="notion logo"  />
-</div>
-
-###
+---
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=shenioalves.shenioalves&"  />
 </div>
 
-###
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f2a900&height=180&section=footer&text=Bye&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=60"/>
